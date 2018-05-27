@@ -1,1 +1,2 @@
-
+The ols notebook performs linear regression on the datafiles Data1.txt, Data2.txt and Data3.txt using Python statsmodels.
+Statsmodels is a Python module that provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration. This module provides summary statistics similar to R.
