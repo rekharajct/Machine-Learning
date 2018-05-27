@@ -1,0 +1,3 @@
+The ols.pynb performs linear regression using ordinary least squares on datafiles Data1.txt, Data2.txt, Data3.txt using Python Statsmodels API. This API gives the summary statistics similar to R.
+
+
